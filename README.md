@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/namesarnav/namesarnav/output/snake.svg" alt="Snake animation" />
 
 ###
