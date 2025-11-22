@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Verma</h1>
 <h3 align="center">AI Engineer and Researcher</h3>
 
-- 🔭 I’m currently working on [EchoMind](https://github.com/namesarnav/EchoMind)
+- 🔭 I’m currently working on [EchoMind](https://github.com/namesarnav/EchoMind) and [Lensify](https://github.com/namesarnav/lensify)
 
 - 🌱 I’m currently learning **Rust, CUDA Programming and Kernel Programming**
 
